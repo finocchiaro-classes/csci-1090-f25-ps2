@@ -1,13 +1,13 @@
-# Problem Set 3
-If you are seeing this, you have accepted the invitation in GitHub Classroom. If you have not cloned your copy of the repo (`ps3-yourusername`) down to your own machine using GitHub Desktop, do so now.
+# Problem Set 2
+If you are seeing this, you have accepted the invitation in GitHub Classroom. If you have not cloned your copy of the repo (`ps2-yourusername`) down to your own machine using GitHub Desktop, do so now.
 
 You will be adding three new Python files to your repo:
 
-* `ps3-part1.py`
-* `ps3-part2.py`
-* `ps3-part3.py`
+* `ps2-part1.py`
+* `ps2-part2.py`
+* `ps2-part3.py`
 
-You will commit and push these new files to your repo on GitHub on the internet using GitHub Desktop. If you don't remember how to do this, please review the instructions in Problem Set 1.
+You will commit and push these new files to your repo on GitHub on the internet using GitHub Desktop. If you don't remember how to do this, please review the instructions in Problem Set 0.
 
 If you are having trouble with GitHub come to office hours. 
 
@@ -23,11 +23,11 @@ If you are having trouble with GitHub come to office hours.
 * The date.
 * "This code is my own work. I did not share my code or look at the code of another student. I did not consult ChatGPT, CoPilot, or another large language model."
 
-### This problem set is due Monday, September 16, at 11:59pm EDT.
+### This problem set is due Wednesday, September 17, at 11:59pm EDT.
 
 ## Part 1: Shopping list app
 
-Using IDLE, open a new file and save it into your `ps3-yourusername` repo as `ps3-part1.py`. This program will contain the following:
+Using IDLE, open a new file and save it into your `ps2-yourusername` repo as `ps2-part1.py`. This program will contain the following:
 
 1. A `main()` function that does the following:
 
@@ -65,7 +65,7 @@ For this problem, you will build a financial calculator that can be used to calc
 
 For example, suppose you deposit $100.00 per year for three years in a retirement account that earns 10% interest. On January 1 of year 1, you deposit your $100. On December 31, you will earn $10.00 interest (i.e., 10% of $100.00) giving you a balance of $110.00 after 1 year. On January of year 2 you will deposit another $100.00, giving you a balance of $210.00. Then, on December 31 of year 2, you will earn $21.00 interest (i.e., 10% of $210.00) giving you a balance of $231.00 after 2 years. On January 1 of year 3, you again deposit $100.00, giving you $331. On December 31, interest is calculated ($33.10) and added to the current balance ($331), giving you $364.10. 
 
-Your program will be called `ps3-part2.py` and will do the following. **You don't need to write anything into its own function.**
+Your program will be called `ps2-part2.py` and will do the following. **You don't need to write anything into its own function.**
 
 1. Print a message explaining that it is a retirement calculator and will be asking some questions.
 2. Prompt the user to enter the size of the annual deposit in dollars.
@@ -131,13 +131,13 @@ The max value is 2.02 when x is 0.06
 
 ---
 
-## Deadline: Monday, September 16, at 11:59pm EDT.
+## Deadline: Wednesday, September 17, at 11:59pm EDT.
 
 ## Deliverables
 
-1. `ps3-part1.py` (Part 1: Shopping List)
-2. `ps3-part2.py` (Part 2: Interest Calculator)
-3. `ps3-part3.py` (Part 3: Maximizing f(x))
+1. `ps2-part1.py` (Part 1: Shopping List)
+2. `ps2-part2.py` (Part 2: Interest Calculator)
+3. `ps2-part3.py` (Part 3: Maximizing f(x))
 
 ## Reminder: Important Guidelines
 * Your problem set must be submitted with GitHub. If you are struggling to use GitHub, the TAs or I can help during office hours.
